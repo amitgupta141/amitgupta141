@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-b4a977246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-b4a977246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/15fdd4z8qf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/15fdd4z8qf/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit0000012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit0000012" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/amit0000012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit0000012" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
